@@ -12,3 +12,5 @@ wheels/
 
 # keys
 docs/api-keys.json
+
+logs/
